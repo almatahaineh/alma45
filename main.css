@@ -1,0 +1,10 @@
+.services{
+    text-align: center;
+    background-color: bisque;
+}
+.service{
+    float:left;
+    width: 20%;
+    background: aquamarine;
+}
+
